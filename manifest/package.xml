@@ -2,6 +2,8 @@
     <version>48.0</version>
     <types>
         <members>Account__c.sector__c</members>
+        <members>Account__c.testone__c</members>
+        <members>Account__c.testoneone__c</members>
         <members>maytwentytwo__c.sector__c</members>
         <name>CustomField</name>
     </types>
