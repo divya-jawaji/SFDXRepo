@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>51.0</version>
+    <types>
+        <members>APR_20__c.sector1__c</members>
+        <members>custom_object1__c.sector1__c</members>
+        <members>custom_object2__c.sector1__c</members>
+        <name>CustomField</name>
+    </types>
+</Package>
