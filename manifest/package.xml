@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+    <version>51.0</version>
     <types>
         <members>Account__c.sector__c</members>
         <members>Account__c.testoneone__c</members>
@@ -9,10 +9,6 @@
     <types>
         <members>pubsub</members>
         <name>LightningComponentBundle</name>
-    </types>
-    <types>
-        <members>PRS1</members>
-        <name>PermissionSet</name>
     </types>
     <types>
         <members>ARProfile1</members>
