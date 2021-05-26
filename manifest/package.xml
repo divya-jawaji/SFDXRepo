@@ -5,4 +5,9 @@
         <members>custom_object1__c.sector1__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>ARProfile1</members>
+        <members>ATESTProfile1</members>
+        <name>Profile</name>
+    </types>
 </Package>
