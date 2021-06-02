@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+    <version>51.0</version>
+    <types>
+        <members>A</members>
+        <members>A000</members>
+        <members>A0000</members>
+        <members>A00000ABdkKerh</members>
+        <members>A0001</members>
+        <members>A0071</members>
+        <members>A00772</members>
+        <members>A0123</members>
+        <members>A012378</members>
+        <members>A025</members>
+        <members>A026</members>
+        <members>A027</members>
+        <members>A028</members>
+        <name>ApexClass</name>
+    </types>
     <types>
         <members>Account__c.sector__c</members>
         <members>Account__c.testoneone__c</members>
@@ -9,10 +25,6 @@
     <types>
         <members>pubsub</members>
         <name>LightningComponentBundle</name>
-    </types>
-    <types>
-        <members>PRS1</members>
-        <name>PermissionSet</name>
     </types>
     <types>
         <members>ARProfile1</members>
